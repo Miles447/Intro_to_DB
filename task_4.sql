@@ -46,8 +46,8 @@ CREATE TABLE Order_Details (
 -- display tables in alx_book_store database
 SHOW TABLES;
 -- Check the structure of the tables
-DESCRIBE Authors;
-DESCRIBE Books;
-DESCRIBE Customers;
-DESCRIBE Orders;
-DESCRIBE Order_Details;
+DESC Authors;
+DESC Books;
+DESC Customers;
+DESC Orders;
+DESC Order_Details;
